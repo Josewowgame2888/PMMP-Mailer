@@ -25,7 +25,9 @@ if($mail->send("custom@gmail.com","destination@gmail.com","Mail Head","Subject",
 }
 
 ```
-# Security
+# Tutorial
+https://youtu.be/Krx_DvCGNbc
+# Security and Config
 In order for the API to synchronize with your gmail account you need to activate the function ` Less secure app access` . To do this you can follow the following steps
 - Login to the site (https://myaccount.google.com/security)
 - Search section ` Less secure app access`
