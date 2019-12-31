@@ -37,6 +37,6 @@ In order for the API to synchronize with your gmail account you need to activate
 # Contact me
 If you have any problem, doubt or any suggestion about the API you can contact me in the following methods.
 - Discord  ` !Josewowgame#6256 `
-- Twitter  `@Josewowgame`
+- Twitter  `@OnlyMyNutella`
 - Community `https://discord.gg/3RQnkN5`
 
